@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Neopets Negg Cave Solver
+// @name         Neopets Negg Cave Helper
 // @namespace    GreaseMonkey
 // @version      1.0
 // @description  Displays a 3x3 grid solution for Neopets' Mysterious Negg Cave puzzle with solution
