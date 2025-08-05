@@ -2,6 +2,7 @@
 // @name          Neopets Negg Cave Helper
 // @namespace     GreaseMonkey
 // @version       1.2
+// @author         @willnjohnson
 // @description   Displays all possible 3x3 grid solutions for Neopets' Mysterious Negg Cave puzzle. Usually, there's one unique solution, but sometimes a different solution exists.
 // @match         *://www.neopets.com/shenkuu/neggcave/*
 // @grant         none
