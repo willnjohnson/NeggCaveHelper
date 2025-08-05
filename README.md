@@ -4,7 +4,12 @@ This Greasemonkey script shows the solution to the Negg Cave Puzzle (https://www
 
 ## Features
 
-* Shows solution to the user on the top-right when they visit the Negg Cave Puzzle.
+* Shows all possible solutions to the user on the top-right when they visit the Negg Cave Puzzle.
+
+## Preview
+
+<img width="1199" height="744" alt="image" src="https://github.com/user-attachments/assets/dad2112b-ffd8-4ad8-b98a-6935a944b7ae" />
+
 
 ## Installation
 
