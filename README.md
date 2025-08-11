@@ -10,6 +10,8 @@ This Greasemonkey script shows the solution to the Negg Cave Puzzle (https://www
 
 <img width="1199" height="744" alt="image" src="https://github.com/user-attachments/assets/dad2112b-ffd8-4ad8-b98a-6935a944b7ae" />
 
+<img width="1360" height="1147" alt="megg" src="https://github.com/user-attachments/assets/59258e3b-70ee-4523-b4e1-08b6bb01815d" />
+
 
 ## Installation
 
